@@ -11,7 +11,5 @@ This project is created using React.
 [Link]()
 
 Here is the same project created using vanila JS.
-
 [Github](https://github.com/SirZeck/Grocery-Bud)
-
 [Link](sirzeck.github.io/grocery-bud/)
